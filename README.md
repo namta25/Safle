@@ -9,7 +9,8 @@
 ## Lets get the app to run locally! here's how: 
 **PREREQUISITES**
 
-  Make sure you have docker desktop intalled on your laptop or visit -> https://www.docker.com/products/docker-desktop/  
+  Make sure you have docker desktop intalled and running as a background process on your laptop
+  If you don't already have it installed visit -> https://www.docker.com/products/docker-desktop/  
 
 Now run the following commands to initalise your local environment to get the app running for you.
 ```
