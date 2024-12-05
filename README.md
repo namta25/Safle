@@ -58,7 +58,7 @@ http://localhost:9090/alerts (View Prometheus alerts)
 
 http://localhost:9090/targets (View targets on Prometheus)  
 
-http://localhost:3001 (Check out the "APP Monitoring dashboard on Grafana")  
+http://localhost:3001 (Check out the "APP Monitoring" dashboard on Grafana)  
 
 http://localhost:9200 (Elasticsearch)  
 
